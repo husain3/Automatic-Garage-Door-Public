@@ -1,0 +1,12 @@
+webapp_credentials:
+  username: ''
+  password: ''
+wifi_credentials:
+  network: ''
+  password: ''
+mqtt_server_info:
+  ip: ''
+  port: 1883
+  username: ''
+  password: ''
+  clientname: ''
